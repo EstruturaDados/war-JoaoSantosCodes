@@ -12,6 +12,7 @@
 //   passagem por valor/referência constante (const) para apenas ler.
 // - Foco em: Design de software, modularização, const correctness, lógica de jogo.
 //
+//
 // ============================================================================
 
 // Inclusão das bibliotecas padrão necessárias para entrada/saída, alocação de memória, manipulação de strings e tempo.
